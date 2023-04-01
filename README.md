@@ -10,24 +10,32 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <div style="display:flex;flex-wrap: wrap;">
 <img  alt="JavaScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="TypeScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
 <img  alt="Python" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
 <img  alt="PHP" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img  alt="GO" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img  alt="Rust" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"  />
 <img  alt="React" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  alt="Next" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img  alt="Redux" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img  alt="NodeJS" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img  alt="GraphQL" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img  alt="Firebase" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+<img  alt="Firebase" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
 <img  alt="MySQL" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img  alt="PostgreSQL" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img  alt="MongoDB" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img  alt="VsCode" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img  alt="Vim" width="50px" style="padding-right:10px; padding-bottom:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img  alt="Linux" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img  alt="Git" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  alt="git" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img  alt="HTML" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  alt="CSS" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img  alt="bootstrap" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img  alt="tailwindcss" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  />
+<img  alt="docker" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+<img  alt="figma" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+<img  alt="mochajs" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" />
+<img  alt="jestjsio" width="50px" style="padding-right:10px; padding-bottom:10px;"  rc="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
+<img  alt="getpostman" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 </div>
 
           
