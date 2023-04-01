@@ -31,6 +31,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <img  alt="CSS" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img  alt="bootstrap" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img  alt="tailwindcss" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  />
+<img  alt="jquery" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"  />
 <img  alt="docker" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 <img  alt="figma" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <img  alt="mochajs" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" />
