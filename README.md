@@ -1,4 +1,4 @@
-### 🔥 Bach Hoang Gia
+# 🔥 Bach Hoang Gia
 
 **`Software Engineer`**
 
@@ -37,11 +37,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <img  alt="jestjsio" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
 <img  alt="getpostman" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 </div>
-
-          
-<br />
-
-#
+  
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
