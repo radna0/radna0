@@ -36,7 +36,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <img  alt="mochajs" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" />
 <img  alt="jestjsio" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
 <img  alt="getpostman" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-<img  alt="Bash" width="50px" style="padding-right:10px; padding-bottom:10px;background-color:white"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img  alt="Bash" width="50px" style="padding-right:10px; padding-bottom:10px;background-color:white;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 </div>
   
