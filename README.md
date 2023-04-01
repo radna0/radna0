@@ -7,6 +7,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 ---
 
 ### 🧰 Languages and Tools
+<div style="padding:10px;display:flex;flex-wrap: wrap;">
 <img  alt="JavaScript" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="TypeScript" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
@@ -27,6 +28,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <img  alt="Git" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img  alt="HTML" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  alt="CSS" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</div>
 
           
 <br />
