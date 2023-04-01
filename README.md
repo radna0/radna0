@@ -42,8 +42,9 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 </div>
 
 ---
-
+<div align="center">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap)
+</div>
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
