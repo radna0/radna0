@@ -40,7 +40,10 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <img  alt="Bash" width="50px" style="padding-right:10px; padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 </div>
-  
+
+---
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/hgbach999?theme=nord?ext=heatmap)
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
