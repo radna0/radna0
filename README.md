@@ -12,8 +12,6 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <img  alt="TypeScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img  alt="Python" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img  alt="PHP" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img  alt="GO" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-<img  alt="Rust" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"  />
 <img  alt="React" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  alt="Next" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img  alt="Redux" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
