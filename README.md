@@ -6,7 +6,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <div style="display:flex;flex-wrap: wrap;">
 <img  alt="JavaScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="TypeScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -46,7 +46,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 
 ---
 
-### 👨‍💻 Some of the things I have worked on!
+## 👨‍💻 Some of the things I have worked on!
 <div style="display:flex;flex-wrap: wrap;">
 <img width="400px" height="250px" src="skvllpvnkz.jpeg" alt="">
 <img width="400px" height="250px" src="pokemon.jpeg" alt="">
