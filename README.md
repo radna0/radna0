@@ -46,7 +46,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 
 ---
 
-### Some of the things I have worked on!
+### 👨‍💻 Some of the things I have worked on!
 <div style="display:flex;flex-wrap: wrap;">
 <img width="400px" height="250px" src="skvllpvnkz.jpeg" alt="">
 <img width="400px" height="250px" src="pokemon.jpeg" alt="">
