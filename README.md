@@ -39,11 +39,6 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 </div>
 
 ---
-<div align="center">
-     <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap" />
-</div>
-
----
 
 ## 👨‍💻 Some of the things I have worked on!
 <div style="display:flex;flex-wrap: wrap;">
@@ -69,6 +64,11 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 <img width="400px" height="250px" src="stopwatch.jpeg" alt="">
 </a> 
 
+</div>
+
+---
+<div align="center">
+     <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap" />
 </div>
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
