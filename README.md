@@ -1,4 +1,4 @@
-# 🔥 Bach Hoang Gia
+# 🔥 Bach Hoang Gia 🔥
 
 ### *`Software Engineer`* | *`Tech Enthusiast`* | *`Learner`* 
 I’m **Bach**, an aspiring software engineer in the early stages of my career with a passion for learning. Under no circumstances will I give up on what I desire and relentlessly working to succeed is my motto, I believe that determination and diligence are key to achieving success in the field of software engineering. I am always striving to improve and grow as an engineer, and I hope to inspire others to do the same.
