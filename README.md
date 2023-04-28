@@ -48,11 +48,11 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 
 ### Some of the things I have worked on!
 <div style="display:flex;flex-wrap: wrap;">
-<img width="400px"  src="skvllpvnkz.jpeg" alt="">
-<img width="400px" src="pokemon.jpeg" alt="">
-<img width="400px" src="quickcode.jpeg" alt="">
-<img width="400px" src="oakmap.jpeg" alt="">
-<img width="400px" src="boost.jpeg" alt="">
+<img width="400px" height="100px" src="skvllpvnkz.jpeg" alt="">
+<img width="400px" height="100px" src="pokemon.jpeg" alt="">
+<img width="400px" height="100px" src="quickcode.jpeg" alt="">
+<img width="400px" height="100px" src="oakmap.jpeg" alt="">
+<img width="400px" height="100px" src="boost.jpeg" alt="">
 </div>
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
