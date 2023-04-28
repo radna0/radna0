@@ -1,4 +1,8 @@
-# 🔥 Bach Hoang Gia 🔥 <a href="mailto:giabach.hoang@arol.dev" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="https://www.linkedin.com/in/bach-hg/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+# 🔥 Bach Hoang Gia 🔥 
+<div style="display:flex;flex-wrap: wrap;">
+<a href="mailto:giabach.hoang@arol.dev" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/bach-hg/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+</div>
 
 ### *`Software Engineer`* | *`Tech Enthusiast`* | *`Learner`* 
 I’m **Bach**, an aspiring software engineer in the early stages of my career with a passion for learning. Under no circumstances will I give up on what I desire and relentlessly working to succeed is my motto, I believe that determination and diligence are key to achieving success in the field of software engineering. I am always striving to improve and grow as an engineer, and I hope to inspire others to do the same.
