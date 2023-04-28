@@ -43,6 +43,17 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <div align="center">
      <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap" />
 </div>
+
+---
+
+### Some of things I have worked on!
+<div style="display:flex;flex-wrap: wrap;">
+<img src="skvllpvnkz.jpeg" alt="">
+<img src="pokemon.jpeg" alt="">
+<img src="quickcode.jpeg" alt="">
+<img src="oakmap.jpeg" alt="">
+<img src="boost.jpeg" alt="">
+</div>
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
