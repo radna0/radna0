@@ -53,6 +53,8 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 <img width="400px" height="250px" src="quickcode.jpeg" alt="">
 <img width="400px" height="250px" src="oakmap.jpeg" alt="">
 <img width="400px" height="250px" src="boost.jpeg" alt="">
+<img width="400px" height="250px" src="grocery.jpeg" alt="">
+<img width="400px" height="250px" src="stopwatch.jpeg" alt="">
 </div>
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
