@@ -71,7 +71,7 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 ---
 <div align="center">
      <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap" />
-     <img src="https://github-readme-stats.vercel.app/api?username=radna0&show_icons=true" />
+     [![GitHub Streak](https://streak-stats.demolab.com?user=radna0&theme=swift&hide_border=true&card_width=500)](https://git.io/streak-stats)
 </div>
 ---
 
