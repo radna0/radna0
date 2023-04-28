@@ -72,9 +72,7 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 <div align="center">
      <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap" />
      <img  src="https://streak-stats.demolab.com?user=radna0&theme=ambient-gradient&hide_border=true&card_width=500" />
-     <img width="500px" src="https://github-readme-stats.vercel.app/api?username=radna0&show_icons=true" />
 </div>
----
 
 <!--
 **radna0/radna0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
