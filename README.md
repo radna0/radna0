@@ -47,13 +47,27 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 
 ## 👨‍💻 Some of the things I have worked on!
 <div style="display:flex;flex-wrap: wrap;">
+<a target="_blank" href="https://app.skvllpvnkz.io/">
 <img width="400px" height="250px" src="skvllpvnkz.jpeg" alt="">
+</a> 
+<a target="_blank" href="https://radna0.github.io/pokemon_scroll/">
 <img width="400px" height="250px" src="pokemon.jpeg" alt="">
+</a> 
+<a target="_blank" href="https://subscriptiondsa.vercel.app/">
 <img width="400px" height="250px" src="quickcode.jpeg" alt="">
+</a> 
+<a target="_blank" href="https://github.com/bienmag/oakmap">
 <img width="400px" height="250px" src="oakmap.jpeg" alt="">
+</a> 
+<a target="_blank" href="https://radna0.github.io/boost3.0/">
 <img width="400px" height="250px" src="boost.jpeg" alt="">
+</a> 
+<a target="_blank" href="https://github.com/radna0/StopWatch">
 <img width="400px" height="250px" src="grocery.jpeg" alt="">
+</a> 
+<a target="_blank" href="https://github.com/radna0/Grocery">
 <img width="400px" height="250px" src="stopwatch.jpeg" alt="">
+</a> 
 
 </div>
 <!--
