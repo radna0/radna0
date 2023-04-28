@@ -47,7 +47,7 @@ I’m Bach, an aspiring software engineer in my early career with a passion for 
 ---
 
 ### Some of the things I have worked on!
-<div style="display:flex;flex-wrap: wrap;">
+<div style="display:flex;flex-wrap: wrap;justify-content:center;align-items:center;">
 <img style="padding-left:10px;padding-right:10px;padding-top:10px;" width="400px" height="250px" src="skvllpvnkz.jpeg" alt="">
 <img style="padding-left:10px;padding-right:10px;padding-top:10px;" width="400px" height="250px" src="pokemon.jpeg" alt="">
 <img style="padding-left:10px;padding-right:10px;padding-top:10px;" width="400px" height="250px" src="quickcode.jpeg" alt="">
