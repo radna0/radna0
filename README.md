@@ -72,7 +72,7 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 <div align="center">
      <img width="100%" src="https://streak-stats.demolab.com?user=radna0&theme=react&hide_border=true&card_width=846" />
      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=radna0&theme=react-dark&bg_color=20232A">
-     <img width="100%" src="https://leetcard.jacoblin.cool/hgbach999?theme=nord&ext=heatmap&width=846&height=300" />
+     <img width="100%" src="https://leetcard.jacoblin.cool/hgbach999?theme=nord&ext=heatmap&width=846&height=350" />
 </div>
 
 <!--
