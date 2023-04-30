@@ -1,13 +1,16 @@
-# 🔥 Bach Hoang Gia 🔥 
+# 🔥 Bach Hoang Gia 🔥
+
 <a href="mailto:giabach.hoang@arol.dev" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/bach-hg/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-### *`Software Engineer`* | *`Tech Enthusiast`* | *`Learner`* 
+### _`Software Engineer`_ | _`Tech Enthusiast`_ | _`Learner`_
+
 I’m **Bach**, an aspiring software engineer in the early stages of my career with a passion for learning. Under no circumstances will I give up on what I desire and relentlessly working to succeed is my motto, I believe that determination and diligence are key to achieving success in the field of software engineering. I am always striving to improve and grow as an engineer, and I hope to inspire others to do the same.
 
 ---
 
 ## 🧰 Languages and Tools
+
 <div style="display:flex;flex-wrap: wrap;">
 <img  alt="JavaScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="TypeScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -43,6 +46,7 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 ---
 
 ## 👨‍💻 Some of the things I have worked on!
+
 <div align="center" style="display:flex;flex-wrap: wrap;">
 <a  href="https://app.skvllpvnkz.io/" target="_blank">
 <img width="400px" height="250px" src="skvllpvnkz.jpeg" alt="">
@@ -59,16 +63,20 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 <a  href="https://radna0.github.io/boost3.0/" target="_blank">
 <img width="400px" height="250px" src="boost.jpeg" alt="">
 </a> 
+<a  href="https://ixplain.vercel.app/" target="_blank">
+<img width="400px" height="250px" src="ixplain.jpeg" alt="">
+</a> 
 <a  href="https://github.com/radna0/StopWatch" target="_blank">
 <img width="400px" height="250px" src="grocery.jpeg" alt="">
 </a> 
 <a  href="https://github.com/radna0/Grocery" target="_blank">
 <img width="400px" height="250px" src="stopwatch.jpeg" alt="">
-</a> 
+</a>
 
 </div>
 
 ---
+
 <div align="center">
      <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap" />
      <img  src="https://streak-stats.demolab.com?user=radna0&theme=ambient-gradient&hide_border=true&card_width=500" />
