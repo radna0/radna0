@@ -77,9 +77,11 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 
 ---
 
+## 📊 Statistics
 <div align="center">
-     <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/hgbach999?theme=wtf&ext=heatmap" />
-     <img  src="https://streak-stats.demolab.com?user=radna0&theme=ambient-gradient&hide_border=true&card_width=500" />
+     <img width="100%" src="https://streak-stats.demolab.com?user=radna0&theme=react&hide_border=true&card_width=846" />
+     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=radna0&theme=react-dark&hide_border=true&bg_color=20232A">
+     <img width="100%" src="https://leetcard.jacoblin.cool/hgbach999?theme=nord&ext=heatmap&width=846&height=350" />
 </div>
 
 <!--
