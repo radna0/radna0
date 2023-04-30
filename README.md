@@ -62,7 +62,7 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 </a> 
 <a  href="https://radna0.github.io/boost3.0/" target="_blank">
 <img width="400px" height="250px" src="boost.jpeg" alt="">
-</a> 
+</a>
 <a  href="https://ixplain.vercel.app/" target="_blank">
 <img width="400px" height="250px" src="ixplain.jpeg" alt="">
 </a> 
