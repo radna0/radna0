@@ -45,7 +45,7 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 
 ---
 
-## 👨‍💻 Some of the things I have worked on!
+## 👨‍💻 Some things I have worked on!
 
 <div align="center" style="display:flex;flex-wrap: wrap;">
 <a  href="https://app.skvllpvnkz.io/" target="_blank">
