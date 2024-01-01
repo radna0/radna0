@@ -13,7 +13,7 @@ I’m **Bach**, a seasoned software engineer currently navigating the dynamic la
 
 ## 🧰 Languages and Tools
 
-<div style="display:flex;flex-wrap: wrap;">
+<div style="display:flex;flex-wrap: wrap;justify-content:center;align-items:center;">
 <img  alt="JavaScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="TypeScript" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img  alt="Python" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -56,8 +56,11 @@ I’m **Bach**, a seasoned software engineer currently navigating the dynamic la
 
 ## 👨‍💻 Some things I have worked on!
 
-<div align="center" style="display:flex;flex-wrap: wrap;">
-<a  href="https://app.skvllpvnkz.io/" target="_blank">
+<div style="display:flex;flex-wrap: wrap;justify-content:center;align-items:center;">
+<a  href="https://moneylover.me/" target="_blank">
+<img width="400px" height="250px" src="moneylover.jpeg" alt="">
+</a> 
+<a  href="https://skvllpvnkz.com/" target="_blank">
 <img width="400px" height="250px" src="skvllpvnkz.jpeg" alt="">
 </a> 
 <a  href="https://radna0.github.io/pokemon_scroll/" target="_blank">
@@ -87,10 +90,10 @@ I’m **Bach**, a seasoned software engineer currently navigating the dynamic la
 ---
 
 ## 📊 Statistics
-<div align="center">
+<div style="display:flex;flex-wrap: wrap;justify-content:center;align-items:center;">
      <img width="100%" src="https://streak-stats.demolab.com?user=radna0&theme=react&hide_border=true&card_width=846" />
-     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=radna0&theme=react-dark&hide_border=true&bg_color=20232A">
-     <img width="100%" src="https://leetcard.jacoblin.cool/hgbach999?theme=nord&ext=heatmap&width=846&height=350" />
+     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=radna0&theme=react-dark&hide_border=true&bg_color=20232A">
+     <!-- <img width="100%" src="https://leetcard.jacoblin.cool/hgbach999?theme=nord&ext=heatmap&width=846&height=350" /> -->
 </div>
 
 <!--
