@@ -29,7 +29,7 @@ I’m **Bach**, a seasoned software engineer currently navigating the dynamic la
 <img  alt="MongoDB" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img  alt="VsCode" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img  alt="Vim" width="50px" style="padding-right:10px; padding-bottom:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img  alt="Arch" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+<img  alt="Arch" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" />
 
 
 <img  alt="Linux" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
