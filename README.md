@@ -1,13 +1,13 @@
-# 🔥 Hoang Gia Bach 🔥
+# HGB
 
 <a href="https://www.linkedin.com/in/bach-hg/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.bachhg.me/" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="mailto:giabach.hoang@arol.dev" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
-### _`Software Engineer`_ | _`Tech Enthusiast`_ | _`Learner`_
+### _`Software Engineer`_ | _`Tech Enthusiast`_ | _`Lifelong Learner`_
 
-I’m **Bach**, an aspiring software engineer in the early stages of my career with a passion for learning. Under no circumstances will I give up on what I desire and relentlessly working to succeed is my motto, I believe that determination and diligence are key to achieving success in the field of software engineering. I am always striving to improve and grow as an engineer, and I hope to inspire others to do the same.
+I’m **Bach**, a seasoned software engineer currently navigating the dynamic landscape of my career with an enduring passion for continuous learning. Unyielding in my pursuit of excellence, I adhere to the belief that determination and diligence are paramount in achieving success in the ever-evolving realm of software engineering. Throughout my journey, I have honed my skills and embraced challenges as opportunities for growth. As I continue to progress in my career, my commitment to improvement remains unwavering, and I aspire to inspire others to embark on their own journey of perpetual development..
 
 ---
 
@@ -29,7 +29,14 @@ I’m **Bach**, an aspiring software engineer in the early stages of my career w
 <img  alt="MongoDB" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img  alt="VsCode" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img  alt="Vim" width="50px" style="padding-right:10px; padding-bottom:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img  alt="Arch" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+
+
 <img  alt="Linux" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img  alt="Flutter" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+
+<img  alt="AWS" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img  alt="git" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img  alt="HTML" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  alt="CSS" width="50px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
