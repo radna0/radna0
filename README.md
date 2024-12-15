@@ -4,4 +4,7 @@
 <a href="https://www.bachhg.me/" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="mailto:giabach.hoang@arol.dev" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-![Isekai  Screenshot](https://github.com/user-attachments/assets/06e51f3b-6220-4e44-bbd8-b77d6391321d)
+# Isekai • Creation
+**AI for Animation, Anime, and Cartoons.**
+![Isekai Creation Screenshot](https://github.com/user-attachments/assets/74b2277a-e3ed-4582-afbf-6282ea92c449)
+
